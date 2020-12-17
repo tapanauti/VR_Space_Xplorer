@@ -15,7 +15,7 @@ with a more interactive and immersive approach.
 
 ![Main Menu](Project_Screenshots/MainMenu.PNG)
 
-![Loading](Project_Screenshots\LoadingScreen.PNG)
+![Loading](Project_Screenshots/LoadingScreen.PNG)
 
 ![Space Explorer](Project_Screenshots\SpaceExplorer.PNG)
 
