@@ -11,11 +11,9 @@ with a more interactive and immersive approach.
 * To run the project frst download the file from [this](https://drive.google.com/file/d/17vwVHaql56WEw6-Z26zz7UBGswMzbqBh/view?usp=sharing) link.
 * Unzip the .rar file and then upload this in Unity.
 
-
 ##### Overview of the project
 
-![Main Menu](Project_screenshots\MainMenu.PNG)
-
+![Main Menu](.\Project_screenshots\MainMenu.PNG)
 
 ![Loading](Project_Screenshots\LoadingScreen.PNG)
 
