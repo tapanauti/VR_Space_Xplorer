@@ -13,7 +13,7 @@ with a more interactive and immersive approach.
 
 ##### Overview of the project
 
-![Main Menu](.\Project_screenshots\MainMenu.PNG)
+![Main Menu](Project_screenshots/MainMenu.PNG)
 
 ![Loading](Project_Screenshots\LoadingScreen.PNG)
 
