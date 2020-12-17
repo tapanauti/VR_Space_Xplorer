@@ -17,18 +17,18 @@ with a more interactive and immersive approach.
 
 ![Loading](Project_Screenshots/LoadingScreen.PNG)
 
-![Space Explorer](Project_Screenshots\SpaceExplorer.PNG)
+![Space Explorer](Project_Screenshots/SpaceExplorer.PNG)
 
-![Warpping](Project_Screenshots\InnerCoreInfo.PNG)
+![Warpping](Project_Screenshots/InnerCoreInfo.PNG)
 
-![Teleport](Project_Screenshots\TeleportPanel.PNG)
+![Teleport](Project_Screenshots/TeleportPanel.PNG)
 
-![Warpping](Project_Screenshots\TeleportEffect.PNG)
+![Warpping](Project_Screenshots/TeleportEffect.PNG)
 
-![Earth](Project_Screenshots\Earth.PNG)
+![Earth](Project_Screenshots/Earth.PNG)
 
-![Warpping](Project_Screenshots\Mars.PNG)
+![Warpping](Project_Screenshots/Mars.PNG)
 
-![Warpping](Project_Screenshots\Mercury.PNG)
+![Warpping](Project_Screenshots/Mercury.PNG)
 
-![Warpping](Project_Screenshots\Venus.PNG)
+![Warpping](Project_Screenshots/Venus.PNG)
